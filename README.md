@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Level (1)](https://user-images.githubusercontent.com/98537263/177055882-873a58a8-68f8-498f-839d-a56f94894602.gif)
+
 ![Level](https://user-images.githubusercontent.com/98537263/177055390-74808599-e162-4597-ac16-3da5a0b0054e.gif)
 
 <!--

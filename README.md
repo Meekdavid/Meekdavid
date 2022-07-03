@@ -1,7 +1,5 @@
-## Hi there 👋
-![Level (1)](https://user-images.githubusercontent.com/98537263/177055882-873a58a8-68f8-498f-839d-a56f94894602.gif)
-
-![Level](https://user-images.githubusercontent.com/98537263/177055390-74808599-e162-4597-ac16-3da5a0b0054e.gif)
+# Hi there 👋
+![Level (2)](https://user-images.githubusercontent.com/98537263/177056160-c653d9e5-74ad-4f74-aa21-f09dab4eb670.gif)
 
 <!--
 **Meekdavid/Meekdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

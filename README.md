@@ -1,6 +1,8 @@
 # Hi there 👋
 ![Level (2)](https://user-images.githubusercontent.com/98537263/177056160-c653d9e5-74ad-4f74-aa21-f09dab4eb670.gif)
-
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/98537263/177056160-c653d9e5-74ad-4f74-aa21-f09dab4eb670.gif" width="100"/>
+</div>
 
 
 <br />

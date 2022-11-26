@@ -1,7 +1,7 @@
 # Hi there 👋
 ![Level (2)](https://user-images.githubusercontent.com/98537263/177056160-c653d9e5-74ad-4f74-aa21-f09dab4eb670.gif)
 <div id="header" align="center">
-  <img src="https://github.com/Meekdavid/Mboko/blob/main/WELCOME.gif" style = "background-image: none;"/>
+  <img src="https://github.com/Meekdavid/Mboko/blob/main/WELCOME.gif" width = "70%" height = "250"/>
 </div>
 
 

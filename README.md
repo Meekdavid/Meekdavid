@@ -12,10 +12,8 @@
 <br />
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Meekdavid&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meekdavid&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Meekdavid&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meekdavid&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=false"></p>
 
 <br />
 
@@ -23,7 +21,7 @@
 <p ><img style = "margin-left: auto; margin-right: auto; width: 50%; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" /></p>
 <br/>
 
-<a href="https://github.com/Meekdavid/github-readme-activity-graph"><img alt="David Mboko' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meekdavid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Meekdavid/github-readme-activity-graph"><img alt="David Mboko' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meekdavid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 <br/>
 
 <br />

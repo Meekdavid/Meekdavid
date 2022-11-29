@@ -18,7 +18,7 @@
 <br />
 
 
-<p ><img style = "margin-left: auto; margin-right: auto; width: 50%; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" /></p>
 <br/>
 
 <a href="https://github.com/Meekdavid/github-readme-activity-graph"><img alt="David Mboko' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meekdavid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>

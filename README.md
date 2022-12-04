@@ -13,15 +13,12 @@ ___
 |-|-|-|
 |[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=Meekdavid&show_icons=true&theme=dark&hide_title=true)](https://github.com/elpacificmb)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meekdavid&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Meekdavid)|![Visitors](https://profile-counter.glitch.me/%7BMeekdavid%7D/count.svg)
 ___
-[
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" />
+
+[]<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" />
 <br/>
 ___
 
 <a href="https://github.com/Meekdavid/github-readme-activity-graph"><img alt="David Mboko' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meekdavid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
-<br/>
-
-<br />
 
 
 ### My Opensource Story

@@ -4,6 +4,27 @@
 </div>
 <br />
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
+
+```javascript
+const Meekdavid = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "C#", "shell"],
+    askMeAbout: ["web dev", "tech", "app dev", "engineering"],
+    technologies: {
+        backEnd: {
+            js: [".Net", ".NetCore", "Node"],
+        },
+        devOps: ["Azure", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Widzler", "RabbitMq", "selenium", "open-cv"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Full stack web/app development, blockchain development with Solidity",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 #### Connect with me:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/david-mboko-25bb9019b/) [![Subscribe to My Channel](https://img.shields.io/badge/--gmail?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/@davidmboko6502/featured) [![Portfolio](https://img.shields.io/badge/--twitter?label=Portfolio&logo=Portfolio&style=social)](https://aksu.academia.edu/DavidMboko) 

@@ -13,7 +13,8 @@ const Meekdavid = {
     askMeAbout: ["web dev", "tech", "app dev", "engineering"],
     technologies: {
         backEnd: {
-            js: [".Net", ".NetCore", "Node"],
+            C#: [".Net", ".NetCore", "WPF"],
+            js: ["Node", "jQuery"]
         },
         devOps: ["Azure", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],

@@ -18,7 +18,7 @@ const Meekdavid = {
         },
         devOps: ["Azure", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Widzler", "RabbitMq", "selenium", "open-cv"]
+        misc: ["Widzler", "RabbitMq", "Cypress", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Full stack web/app development, blockchain development with Solidity",

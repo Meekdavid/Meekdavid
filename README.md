@@ -80,15 +80,11 @@ All of my projects are released as open-source on GitHub, this includes some of 
 </details>
 
 <details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
+  <summary><b>🔒&nbsp;&nbsp;null</b></summary>
   <br/>
 
 ```
------BEGIN PGP PUBLIC KEY BLOCK-----
 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCuz6GlPQM29LT/mhXNWwl4l4UAMTL097C5gA38M04JMLBZzlw2VCJIXF7F1owIV9okQz/jSzCVUu7mwaJCuT2yt1CG6oPVraJ09SZ8sSpcOxxPFId59pja3ye+HGEKPJtVJqnO0vjoQ8Kltu1r2Q4rUDPLA5cqAKjR930483Gaf1zc9FIHGnZ7Gc24eaEHyNSkmHi94inySkgdlFMowGevvJcPXDVp2xfc7Mev9Syuk/kTRvishglABx7U30NK1I1TU414qqZuzBb3RudGmUGWkHmJp8yIVMgTeNW/O2u5+Pd6TNNk5OfoG2bYxPvKWnjJiTmtTQ6NSBaeP0VlCGMXhp0CnwX1MuCWSsoPqXgRn6S4Ku/O/+B3BZ96NmvEs3Ba8fQgReXHZZ9yzQc0caLV9+0GzVYpAX3lIVkeuTxOPXi3WrIagDyunaYIvTbZhPeM+X0cOil3T19Ir3SdCOjtVxujHcOCfPpOAmvgszwNEPzncoZxQoaY2Wg1Eo+e4vE= Admin@DESKTOP-QI6H2EA
-
------END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
 

@@ -1,7 +1,7 @@
 # Hi there 👋
-<div id="header" align="center">
-  <img src="https://github.com/Meekdavid/Mboko/blob/main/WELCOME (2).gif" width = "40%" height = "200"/>
-</div>
+<p align="center">
+  <a href="https://github.com/senior-developer1019"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20master;10%2B%20years%20of%20coding%20experience;Blockchain%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 <br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  

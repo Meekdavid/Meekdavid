@@ -88,7 +88,7 @@ All of my projects are released as open-source on GitHub, this includes some of 
     <img 
       alt="snake animation"
       title="Snake Animation" 
-      src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks!&fontAlign=80&fontAlignY=40&color=gradient" 
+      src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thank You!&fontAlign=80&fontAlignY=40&color=gradient" 
       width="100%" 
     />
 </p>

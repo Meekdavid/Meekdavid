@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <p align="center">
   <a href="https://github.com/Meekdavid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Code%20City;2+%2B%20years%20of%20coding%20experience;.NetCore%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -41,7 +41,7 @@ ___
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Third Party Integrations](https://github.com/Meekdavid/Third-Party-Integrations) - This project using technologies such as restsharp and other tools to consume and utilize SOAP and REST APIs. Examples, are DSTV, UAC Foods, Dangote Cements/Foods, BUA Cements/Foods APIs, from which I have consumed to utilize information passed from them.
-- [REST APIs](https://github.com/Meekdavid/Works-API) - This is one of the many APIs I have built using .NetCore frammework.
+- [REST APIs](https://github.com/Meekdavid/ALX-MVP-Project) - This is one of the many APIs I have built using .NetCore frammework.
 -  [Software Jobs/Programs](https://github.com/Meekdavid/Auto-Populator-Program) - This is one of the many programs I have built using C#. It automatically collects information from an API and updates the database of a web and application software.
 - [School registration portal](https://github.com/Meekdavid/A-school-Registration-Portal-using-USSD) - Here is an  API for a school portal.
 [⏩ &nbsp; and many more](https://github.com/Meekdavid?tab=repositories&q=&type=source&language=&sort=stargazers) 

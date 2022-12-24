@@ -39,8 +39,6 @@ ___
 <br/>
 ___
 
-<a href="https://github.com/Meekdavid/github-readme-activity-graph"><img alt="David Mboko' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meekdavid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
-
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:

@@ -88,4 +88,12 @@ All of my projects are released as open-source on GitHub, this includes some of 
 </details>
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+<p align="center">
+    <img 
+      alt="snake animation"
+      title="Snake Animation" 
+      src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks!&fontAlign=80&fontAlignY=40&color=gradient" 
+      width="100%" 
+    />
+</p>
 

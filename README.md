@@ -38,8 +38,6 @@ ___
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" />
 <br/>
 ___
-
-
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Third Party Integrations](https://github.com/Meekdavid/Third-Party-Integrations) - This project using technologies such as restsharp and other tools to consume and utilize SOAP and REST APIs. Examples, are DSTV, UAC Foods, Dangote Cements/Foods, BUA Cements/Foods APIs, from which I have consumed to utilize information passed from them.

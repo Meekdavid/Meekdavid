@@ -41,7 +41,7 @@ ___
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, these include some of my GitHub trending projects:
 - [Third Party Integrations](https://github.com/Meekdavid/Third-Party-Integrations) - This project using technologies such as restsharp and other tools to consume and utilize SOAP and REST APIs. Examples, are DSTV, UAC Foods, Dangote Cements/Foods, BUA Cements/Foods APIs, from which I have consumed to utilize information passed from them.
-- [REST APIs](https://github.com/Meekdavid/School-Management-System) - This is one of the many APIs I have built using .NetCore frammework.
+- [REST APIs](https://github.com/Meekdavid/Financial-Transaction-Tracker-API) - This is one of the many APIs I have built using .NetCore frammework.
 -  [Software Jobs/Programs](https://github.com/Meekdavid/Transactions-Updater-Service/tree/main) - This is one of the many programs I have built using C#. The .Net worker service handles transaction processing for specific merchants, arranging them into well-structured Excel sheets, and subsequently dispatching them to the respective merchants through SMTP servers.
 - [School Registration Portal](https://github.com/Meekdavid/School-Management-System) - Here is an  API for a school portal.
 [⏩ &nbsp; and many more](https://github.com/Meekdavid?tab=repositories&q=&type=source&language=&sort=stargazers) 

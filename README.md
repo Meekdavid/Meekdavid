@@ -40,9 +40,9 @@ ___
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, these include some of my GitHub trending projects:
-- [Third Party Integrations](https://github.com/Meekdavid/Third-Party-Integrations) - This project harnesses technologies such as RestSharp and other tools to consume and work with SOAP and REST APIs. Notable examples include DSTV, UAC Foods, Dangote Cements/Foods, and BUA Cements/Foods APIs, which have been utilized to extract and utilize information seamlessly.
 - [REST APIs](https://github.com/Meekdavid/Financial-Transaction-Tracker-API) - This API has been developed using .NET Core and facilitates merchant transactions. Its capabilities encompass various functions, including querying merchant transactions, accessing transaction history, modifying merchant and customer details, as well as managing transactions for both merchants and customers.
 -  [Software Jobs/Programs](https://github.com/Meekdavid/Transactions-Updater-Service/tree/main) - This program represents one among several that I've developed using C#. Operating as a .NET worker service, it manages transaction processing for designated merchants/customers. The service efficiently organizes transactions into structured Excel sheets and then delivers them to the respective merchants/customers using SMTP servers.
+-  [Third Party Integrations](https://github.com/Meekdavid/Third-Party-Integrations) - This project harnesses technologies such as RestSharp and other tools to consume and work with SOAP and REST APIs. Notable examples include DSTV, UAC Foods, Dangote Cements/Foods, and BUA Cements/Foods APIs, which have been utilized to extract and utilize information seamlessly.
 - [School Registration Portal](https://github.com/Meekdavid/School-Management-System) - Simplify school operations with our School Management Portal API. Seamlessly integrate student data, attendance, grades, and more. Automate tasks, enhance communication and ensure data security. Revolutionize education management today!
 [⏩ &nbsp; and many more](https://github.com/Meekdavid?tab=repositories&q=&type=source&language=&sort=stargazers) 
 

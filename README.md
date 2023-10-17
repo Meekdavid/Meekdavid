@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <p align="center">
-  <a href="https://github.com/Meekdavid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Digital%20Playground;4+%2B%20Years%20of%20Coding%20Experience;Agile%20Development%20Expert;Conversant%20with%20New%20Technologies&font=Pacifico&center=true&widt750h=&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Meekdavid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Digital%20Playground;4+%2B%20Years%20of%20Coding%20Experience;Agile%20Development%20Expert;Conversant%20with%20New%20Technologies&font=Pacifico&center=true&width=750h&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  

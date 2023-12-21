@@ -12,11 +12,11 @@ const Meekdavid = {
     askMeAbout: ["web dev", "tech", "app dev", "engineering"],
     technologies: {
         backEnd: {
-            C#: [".Net", ".NetCore", "WPF"],
-            js: ["Node", "jQuery"]
+            C#: ["MVC", ".NetCore", "WPF"],
+            js: ["jQuery"]
         },
         devOps: ["Azure", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "TSql", "sqlite"],
         misc: ["Widzler", "RabbitMq", "Cypress", "Unit-test"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
@@ -39,7 +39,6 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" />
 </div>
 <br/>
----
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, these include some of my GitHub trending projects:

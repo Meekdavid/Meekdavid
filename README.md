@@ -39,7 +39,7 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" />
 </div>
 <br/>
-
+***
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, these include some of my GitHub trending projects:
 - [REST APIs](https://github.com/Meekdavid/Financial-Transaction-Tracker-API) - This API has been developed using .NET Core and facilitates merchant transactions. Its capabilities encompass various functions, including querying merchant transactions, accessing transaction history, modifying merchant and customer details, as well as managing transactions for both merchants and customers.

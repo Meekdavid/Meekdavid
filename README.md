@@ -95,9 +95,9 @@ All of my projects are released as open-source on GitHub, these include some of 
 
 ***
 
-## Activity
+## Top Repo Activity
 
 <div align="center">
-  <img src="https://repobeats.axiom.co/api/embed/6fc7aa49770ea08ec85ba5ff5b566df0e9b3ac46.svg" alt="Repobeats analytics image" />
+  <img src="https://repobeats.axiom.co/api/embed/87e032c3af3ba8c7b100f27910faa761ebc96712.svg" alt="Repobeats analytics image" />
 </div>
 

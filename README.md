@@ -93,3 +93,11 @@ All of my projects are released as open-source on GitHub, these include some of 
     />
 </p>
 
+***
+
+## Activity
+
+<div align="center">
+  <img src="https://repobeats.axiom.co/api/embed/6fc7aa49770ea08ec85ba5ff5b566df0e9b3ac46.svg" alt="Repobeats analytics image" />
+</div>
+

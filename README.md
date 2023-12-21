@@ -39,7 +39,7 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meekdavid&theme=dark" alt="Meekdavid" />
 </div>
 <br/>
-___
+---
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, these include some of my GitHub trending projects:

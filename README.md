@@ -8,11 +8,11 @@
 ```javascript
 const Meekdavid = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C#", "shell"],
-    askMeAbout: ["web dev", "tech", "app dev", "engineering"],
+    code: ["Javascript", "Python", "C#", "Java" "shell"],
+    askMeAbout: ["web dev", "tech", "app dev", "application security" "engineering"],
     technologies: {
         backEnd: {
-            C#: ["MVC", ".NetCore", "WPF"],
+            C#: ["MVC", ".NetCore", "WPF", "Springboot"],
             js: ["jQuery"]
         },
         devOps: ["Azure", "Docker🐳", "Nginx"],

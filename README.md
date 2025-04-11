@@ -1,7 +1,3 @@
-
----
-
-```markdown
 <h1 align="center">
   Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="40px"/>
 </h1>
@@ -11,8 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+Digital+Workspace;4%2B+Years+of+Coding+Experience;Agile+Development+Expert;Always+Learning+New+Tech!" alt="Typing SVG" />
   </a>
 </p>
-
----
 
 ### 🧑‍💻 A Bit About Me...
 

@@ -1,4 +1,3 @@
----
 
 ```markdown
 <h1 align="center">
@@ -138,5 +137,3 @@ const Meekdavid = {
 
 > 💬 Let me know what you think or how I can help collaborate on cool ideas!
 ```
-
----

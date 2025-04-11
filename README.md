@@ -1,5 +1,7 @@
 
-```
+---
+
+```markdown
 <h1 align="center">
   Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="40px"/>
 </h1>
@@ -137,3 +139,5 @@ const Meekdavid = {
 
 > 💬 Let me know what you think or how I can help collaborate on cool ideas!
 ```
+
+---

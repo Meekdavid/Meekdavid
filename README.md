@@ -1,5 +1,5 @@
 
-```markdown
+```
 <h1 align="center">
   Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="40px"/>
 </h1>

@@ -1,4 +1,3 @@
-````markdown
 # 🚀 David Mboko | Full-Stack Engineer • AI Systems Builder • Blockchain Developer
 
 <div align="center">
@@ -230,4 +229,3 @@ const david: Engineer = {
 <sub>⭐ From [Meekdavid](https://github.com/Meekdavid) with ❤️ • Built for scale • Powered by curiosity</sub>
 
 </div>
-```
